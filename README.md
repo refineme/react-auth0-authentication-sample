@@ -1,6 +1,6 @@
 # react-auth0-authentication-sample
 
-This is the sample code that accompanies my article on how to add Authenication to your React Application using Auth0. You can view the article here which gives you step-by-step instructions on how to implement authentication using Auth0.
+This is the sample code that accompanies my article on how to add Authenication to your React Application using Auth0. You can view the article [https://docs.google.com/document/d/1wY7xryfdbo1IWsaJmc9DmHKC56d3OmeD-3vj-LjxCKU/edit?usp=sharing](here) which gives you step-by-step instructions on how to implement authentication using Auth0.
 
 ## Project setup
 
